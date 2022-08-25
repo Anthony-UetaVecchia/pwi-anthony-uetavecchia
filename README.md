@@ -1,2 +1,2 @@
 # pwi-anthony-uetavecchia
-Repositorio sobre as aulas de PWI dos professores João e Orlando
+Repositório para as aulas de Programação Web 1 sob a tutela dos professores Orlando Gomes e João Siles
